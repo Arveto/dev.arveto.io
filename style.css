@@ -1,0 +1,22 @@
+body{
+	background: dimgrey;
+	font-family: sans;
+	margin: auto;
+	max-width: 80ex;
+	padding: 2ex;
+}
+
+#arvetoIcon{
+	border-radius: 2ex;
+	display: table;
+	margin: 1ex auto 5ex;
+	width: 50%;
+}
+
+a{
+	color: dodgerblue;
+	display: list-item;
+	font-size: xx-large;
+	list-style: square;
+	text-decoration: none;
+}
